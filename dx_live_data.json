@@ -1,0 +1,208 @@
+{
+  "data_y2026": {
+    "revenue": [
+      367402.0,
+      352990.0,
+      409954.0,
+      412282.0,
+      416608.0,
+      415428.0,
+      418733.0,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "expense": [
+      176975.0,
+      110488.0,
+      151525.0,
+      165172.0,
+      155093.0,
+      153189.0,
+      159007.0,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "profit": [
+      190427.0,
+      242502.0,
+      258429.0,
+      247109.0,
+      261515.0,
+      262239.0,
+      259726.0,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "margin": [
+      51.8,
+      68.7,
+      63.0,
+      59.9,
+      62.8,
+      63.1,
+      62.0,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "weight": [
+      78761376.0,
+      78184971.0,
+      91377891.0,
+      83607316.0,
+      87430543.0,
+      85249268.0,
+      86958421.0,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "costPerKg": [
+      2.25,
+      1.41,
+      1.84,
+      1.98,
+      1.77,
+      1.8,
+      1.83,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "revPerKg": [
+      4.66,
+      4.51,
+      4.48,
+      4.93,
+      4.75,
+      4.87,
+      4.82,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "capacity": [
+      86,
+      86,
+      100,
+      92,
+      96,
+      94,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "laborUtilPct": [
+      78,
+      76,
+      88,
+      84,
+      90,
+      87,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "equipmentUtilPct": [
+      70,
+      68,
+      82,
+      79,
+      85,
+      83,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "spaceUtilPct": [
+      65,
+      64,
+      79,
+      74,
+      80,
+      77,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "rev_by_type_y2026": {
+    "cargoServices": 669023,
+    "deliveryOrder": 179351,
+    "storageFees": 643249,
+    "terminalCharges": 675581,
+    "otherHandling": 177248,
+    "internal": 448943,
+    "totalExternal": 2344452,
+    "total": 2793397
+  },
+  "staff": {
+    "label": "2026 (Jul)",
+    "permanent": 506,
+    "outsource": 1479
+  },
+  "hr_extra": {
+    "avgAge": 49.3,
+    "outsource": 1479,
+    "genderMale": 80,
+    "genderFemale": 20,
+    "levels": {
+      "L11": 1,
+      "L10": 2,
+      "L9": 7,
+      "L8": 29,
+      "L7": 199,
+      "L6": 256,
+      "L5": 12,
+      "L4": 0
+    },
+    "month": 7,
+    "year": 2026
+  },
+  "tier1_overrides": {
+    "labor": {
+      "6": null
+    },
+    "equipment": {
+      "6": null
+    },
+    "space": {
+      "6": null
+    }
+  },
+  "meta": {
+    "filename": "DX Factsheet 202607.pdf",
+    "month": 7,
+    "year": 2026,
+    "uploaded_at": "2026-08-21 16:09"
+  }
+}
